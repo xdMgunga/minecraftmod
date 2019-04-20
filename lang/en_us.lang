@@ -1,0 +1,42 @@
+
+//Items
+item.bedrock_ingot.name=Bedrock Ingot
+item.saphire.name=Saphire
+item.ruby.name=Ruby
+item.diamond_ingot.name=Diamond Ingot
+item.compressed_diamond.name=Compressed Diamond
+item.uhh.name=Uhh
+item.compressed_stick.name=Compressed Stick
+item.double_compressed_stick.name=Double Compressed Stick
+item.norse_ingot.name=Norse Ingot
+item.v.name=Vicki
+
+//Blocks
+tile.saphire_block.name=Block of Ruby
+tile.bedrock_block.name=Block of Bedrock Ingot
+tile.saphire_ore.name=Saphire Ore
+tile.ruby_ore.name=Ruby Ore
+tile.shit.name=Shit
+tile.compressed_diamond_block.name=Compressed Diamond Block
+tile.norse_ore.name=Norse Ore
+
+//Tools
+item.saphire_sword.name=Sapphire Sword
+item.saphire_pickaxe.name=Sapphire Pickaxe
+item.saphire_shovel.name=Sapphire Shovel
+item.saphire_axe.name=Sapphire Axe
+item.uhh_sword.name=Why?
+item.uhh_pickaxe.name=Who?
+item.uhh_axe.name=What?
+item.uhh_shovel.name=When?
+item.mjolnir.name=MJOLNIR
+
+//Armor
+item.ruby_helmet.name=Ruby Helmet
+item.ruby_chestplate.name=Ruby Chestplate
+item.ruby_leggings.name=Ruby Leggings
+item.ruby_boots.name=Ruby Boots
+item.uhh_helmet.name=Stop.
+item.uhh_chestplate.name=No.
+item.uhh_leggings.name=Don't.
+item.uhh_boots.name=?not?
