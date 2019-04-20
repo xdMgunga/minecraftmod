@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "BBB",
+        "BBB",
+        "BBB"
+    ],
+    
+    "key":
+    {
+        "B":
+        {
+            "item": "rm:bedrock_ingot"
+        }
+    },
+    
+    "result":
+    {
+        "item": "rm:bedrock_block",
+        "count": 1
+    }
+}

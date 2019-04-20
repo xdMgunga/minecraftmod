@@ -1,0 +1,26 @@
+{ 
+    "type": "minecraft:crafting_shapeless",
+
+    "ingredients": 
+    [
+    
+    {
+      "item": "rm:compressed_diamond"
+    },
+    
+    {
+      "item": "rm:bedrock_ingot"
+    },
+    
+    {
+      "item": "rm:saphire_block"
+    }
+    
+    ],
+
+    "result": 
+    {
+        "item": "rm:uhh",
+        "count": 1
+    }
+}
