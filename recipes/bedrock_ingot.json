@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "DSD",
+        "SDS",
+        "DSD"
+    ],
+    
+    "key":
+    {
+        "S":
+        {
+            "item": "rm:saphire"
+        },
+        
+        "D":
+        {
+            "item": "rm:diamond_ingot"
+        }
+    },
+    
+    "result":
+    {
+        "item": "rm:bedrock_ingot",
+        "count": 1
+    }
+}

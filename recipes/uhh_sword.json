@@ -1,0 +1,34 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "NUN",
+        "NUN",
+        "NDN"
+    ],
+    
+    "key":
+    {
+        "D":
+        {
+            "item": "rm:double_compressed_stick"
+        },
+        
+                "U":
+        {
+            "item": "rm:uhh"
+        },
+        
+                "N":
+        {
+            "item": "minecraft:nether_star"
+        }
+    },
+    
+    "result":
+    {
+        "item": "rm:uhh_sword",
+        "count": 1
+    }
+}

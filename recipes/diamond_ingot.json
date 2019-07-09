@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "DID",
+        "IDI",
+        "DID"
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item": "minecraft:iron_ingot"
+        },
+        
+        "D":
+        {
+            "item": "minecraft:diamond"
+        }
+    },
+    
+    "result":
+    {
+        "item": "rm:diamond_ingot",
+        "count": 1
+    }
+}

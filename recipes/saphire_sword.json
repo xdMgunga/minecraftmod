@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " S ",
+        " S ",
+        " F "
+    ],
+    
+    "key":
+    {
+        "F":
+        {
+            "item": "minecraft:stick"
+        },
+        
+        "S":
+        {
+            "item": "rm:saphire"
+        }
+    },
+    
+    "result":
+    {
+        "item": "rm:saphire_sword",
+        "count": 1
+    }
+}

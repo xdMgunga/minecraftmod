@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "DDD",
+        "DDD",
+        "DDD"
+    ],
+    
+    "key":
+    {
+        "D":
+        {
+            "item": "rm:compressed_stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "rm:double_compressed_stick",
+        "count": 1
+    }
+}

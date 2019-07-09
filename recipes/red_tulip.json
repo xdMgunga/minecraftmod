@@ -1,0 +1,18 @@
+{ 
+    "type": "minecraft:crafting_shapeless",
+
+    "ingredients": 
+    [
+
+    {
+      "item": "rm:v"
+    }
+    
+    ],
+
+    "result": 
+    {
+        "item": "minecraft:red_tulip",
+        "count": 1
+    }
+}

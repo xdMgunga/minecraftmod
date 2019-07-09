@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "NNN",
+        "NNN",
+        " D "
+    ],
+    
+    "key":
+    {
+        "N":
+        {
+            "item": "rm:norse_ingot"
+        },
+        
+        "D":
+        {
+            "item": "rm:double_compressed_stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "rm:mjolnir",
+        "count": 1
+    }
+}

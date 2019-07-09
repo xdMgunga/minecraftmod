@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "UNU",
+        "U U",
+        "   "
+    ],
+    
+    "key":
+    {
+        "U":
+        {
+            "item": "rm:uhh"
+        },
+        
+                "N":
+        {
+            "item": "minecraft:nether_star"
+        }
+    },
+    
+    "result":
+    {
+        "item": "rm:uhh_helmet",
+        "count": 1
+    }
+}
